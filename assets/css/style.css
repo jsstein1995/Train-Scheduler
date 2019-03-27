@@ -1,0 +1,26 @@
+#head {
+    background:#daebff;
+    
+
+}
+.jumbotron {
+    background:#daebff;
+    text-align: center;
+}
+
+#input{
+    padding-top: 25px;
+}
+
+body{
+    background: url(../images/dawn-dusk-fast-163856.jpg)no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+button {
+    padding-top: 15px;
+    margin-top: 6px;
+}
